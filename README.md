@@ -20,4 +20,5 @@ pip install -r requirements.txt
 Then run the ```app.py``` file by running the following command on the command propmt to get a stremlit UI
 
 ```
-streamlit run app.py```
+streamlit run app.py
+```
