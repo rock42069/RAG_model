@@ -59,7 +59,7 @@ def generate_response(message):
     return response
 
 
-message = """bache ko tatti krte hue gaand mein dard hota hai"""
+message = """bache ko bolte waqt dard hota hai"""
 response = generate_response(message)
 print(response)
 
