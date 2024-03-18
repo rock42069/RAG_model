@@ -22,4 +22,4 @@ Then run the ```app.py``` file by running the following command on the command p
 ```
 streamlit run app.py
 ```
-To change the question please navigate the code in app.py and change the ```message``` variable with whatever Query you want to give in.
+To change the Query please navigate the code in app.py and change the ```message``` variable with whatever Query you want to give in.
