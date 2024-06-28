@@ -14,7 +14,7 @@ documents = loader.load()
 
 print(len(documents))
 
-embeddings = OpenAIEmbeddings(openai_api_key="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")
+embeddings = OpenAIEmbeddings(openai_api_key="")
 db = FAISS.from_documents(documents, embeddings)
 
 def retrieve_info(query):
